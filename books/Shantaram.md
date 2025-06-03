@@ -1,0 +1,5 @@
+Thoughts:
+
+Confusions:
+
+Big words: 
