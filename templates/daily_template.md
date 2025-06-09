@@ -4,6 +4,19 @@
 > — Richard Bach
 
 
+## Daily Check-In:
+- [ ] Floss
+- [ ] Read for 30 minutes
+- [ ] Meditate for 10 minutes
+- [ ] No Fap
+- [ ] Exercise 
+	- [ ] Brazilian Jiu Jitsu
+	- [ ] Running
+	- [ ] Lifting Weights
+	- [ ] <input type="text" id="workout" />
+#### Sleep: <input type="int" id="sleep" />
+
+
 ## Fitness:
 
 
