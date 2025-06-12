@@ -1,0 +1,28 @@
+
+### Module 4
+- Amazon Virtual Private Cloud (VPC): logically isolated sections of the AWS cloud where you can deploy AWS resources
+	- relevant for private and public subnets which is important when dealing with different services
+- VPC: virtual private cloud network
+	- place your resources in there like EC2 instances
+	- subnet: chunks of IP addresses to group together resources
+	- nothing goes in and out without proper permissions
+- For public traffic, an internet gateway(IGW) is important to accept public traffic
+- For private traffic, we want a virtual private gateway which create a VPN connection with the clients requesting the apps' services
+	- Attach the virtual private gateway to the VPC
+- AWS direct connect: service to establish an exclusive fiber connection with your computer to AWS VPC
+	- lots of benefits to have your own network connection especially with cybersecurity
+- All the packets the access the subnet much be verified by a Network access control list (Network ACL) -> network hardening. 
+	- check traffic leaving and entering subnets
+	- network acl if it already entered than it checks again to leave since it is not stateless which is different from security groups
+- Security groups: instance level security when multiple instances are in a subnet
+	- in general, all security groups block all traffic
+	- modify the security groups to accept certain type of traffic for example https requests
+	- protects the ec2 instances similar to a doorman protecting an apartment
+	- security groups uses memory of what to let in and not let in
+- global networking:
+	- route 53: AWS dns service and is highly available and scalable
+		- translation service that transcribes from domain name to ips
+		- different policies within this
+	- cloudfront: edge locations that serve customers in far locations
+		- CDN: networking that uses edge servers to deliver content to customers
+	- 

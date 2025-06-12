@@ -1,4 +1,3 @@
-
 ### Module 2
 EC2: virual servers to power your needs
 - AWS already owns the servers and you can use the powers you need whenever you need
