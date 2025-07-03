@@ -1,0 +1,64 @@
+{
+  "recentFiles": [
+    {
+      "basename": "SSH",
+      "path": "remote/learning/SSH.md"
+    },
+    {
+      "basename": "Module 5",
+      "path": "remote/aws/Module 5.md"
+    },
+    {
+      "basename": "Module 4",
+      "path": "remote/aws/Module 4.md"
+    },
+    {
+      "basename": "FromSergio Course",
+      "path": "remote/obsidian/FromSergio Course.md"
+    },
+    {
+      "basename": "Fulbright Notes",
+      "path": "remote/random/Fulbright Notes.md"
+    },
+    {
+      "basename": "Subscriptions",
+      "path": "remote/Subscriptions.md"
+    },
+    {
+      "basename": "README",
+      "path": "remote/README.md"
+    },
+    {
+      "basename": "2025-06-26",
+      "path": "local/daily/2025-06-26.md"
+    },
+    {
+      "basename": "2025-06-05",
+      "path": "local/daily/2025-06-05.md"
+    },
+    {
+      "basename": "daily_template",
+      "path": "remote/templates/daily_template.md"
+    },
+    {
+      "basename": "Module 3",
+      "path": "remote/aws/Module 3.md"
+    },
+    {
+      "basename": "Module 2",
+      "path": "remote/aws/Module 2.md"
+    },
+    {
+      "basename": "2025-06-06",
+      "path": "local/daily/2025-06-06.md"
+    },
+    {
+      "basename": "Shantaram",
+      "path": "remote/books/Shantaram.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
