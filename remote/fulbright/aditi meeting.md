@@ -1,0 +1,14 @@
+- only applied to comission based countries
+- local embassy will help you the most
+- airbnb in india could also be a good options
+- IIT Tirupati
+- look into NITs
+- IISC Bangalore
+- don't reach out to different professors in the same university at the same time
+- mention that fulbright will fund me
+-  statement of grant purpose is the most important
+	- what it is impact and feasible 
+	- why the host country is important
+	- timeline for the project
+	- don't make too technical so that the average person can understand it
+	- emphasize the cultural engagement

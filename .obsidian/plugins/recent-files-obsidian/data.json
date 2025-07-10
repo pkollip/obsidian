@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "SSH",
-      "path": "remote/learning/SSH.md"
+      "basename": "priya meeting",
+      "path": "remote/fulbright/priya meeting.md"
+    },
+    {
+      "basename": "professors and universities",
+      "path": "remote/fulbright/professors and universities.md"
+    },
+    {
+      "basename": "saq",
+      "path": "remote/fulbright/saq.md"
+    },
+    {
+      "basename": "aditi meeting",
+      "path": "remote/fulbright/aditi meeting.md"
+    },
+    {
+      "basename": "first meeting",
+      "path": "remote/fulbright/first meeting.md"
     },
     {
       "basename": "Module 5",
@@ -13,34 +29,6 @@
       "path": "remote/aws/Module 4.md"
     },
     {
-      "basename": "FromSergio Course",
-      "path": "remote/obsidian/FromSergio Course.md"
-    },
-    {
-      "basename": "Fulbright Notes",
-      "path": "remote/random/Fulbright Notes.md"
-    },
-    {
-      "basename": "Subscriptions",
-      "path": "remote/Subscriptions.md"
-    },
-    {
-      "basename": "README",
-      "path": "remote/README.md"
-    },
-    {
-      "basename": "2025-06-26",
-      "path": "local/daily/2025-06-26.md"
-    },
-    {
-      "basename": "2025-06-05",
-      "path": "local/daily/2025-06-05.md"
-    },
-    {
-      "basename": "daily_template",
-      "path": "remote/templates/daily_template.md"
-    },
-    {
       "basename": "Module 3",
       "path": "remote/aws/Module 3.md"
     },
@@ -49,12 +37,8 @@
       "path": "remote/aws/Module 2.md"
     },
     {
-      "basename": "2025-06-06",
-      "path": "local/daily/2025-06-06.md"
-    },
-    {
-      "basename": "Shantaram",
-      "path": "remote/books/Shantaram.md"
+      "basename": "2025-07-03",
+      "path": "local/daily/2025-07-03.md"
     }
   ],
   "omittedPaths": [],
