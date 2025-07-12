@@ -38,3 +38,9 @@ I am attaching my resume to this email, if you would like to review my qualific
   
 Warm regards,  
 Praval Kollipara
+
+
+## Letters of Recs
+- Dr. King from PSG
+- Manager Karthi from work
+- Dr. 
