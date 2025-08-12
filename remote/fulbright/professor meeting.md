@@ -1,0 +1,4 @@
+- healthcare research
+	- use AI/computer vision to identify electronic health records
+- input coming from multi feed input 
+	- action recgonition

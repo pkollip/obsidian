@@ -1,0 +1,9 @@
+- two types of funding
+	- debt: take loan to fund the investment 
+		- interest is the cost of debt
+	- equity: you pay some money and you get some ownership
+		- cost of equity is the return that the owner must pay and the return is for the investor 
+	- weighted average cost of capital
+- two ways to valuate real estate
+	- quick method:
+	- 
